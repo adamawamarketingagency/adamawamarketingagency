@@ -3,6 +3,7 @@ Adamawa Marketing Agency React + Tailwind single-file preview
 Contains 2 versions:
  - OnePageAdamawa: one-page scroll landing (default shown)
  - MultiSectionAdamawa: multi-section with top nav
+-
 How to preview locally (quick):
 1) Create a new React app (Vite recommended):
    npm create vite@latest Adamawa-Marketing-Agency -- --template react
@@ -267,3 +268,4 @@ export function MultiSectionAdamawa() {
               <div className="mt-4 h-40 bg-slate-100 rounded-md flex items-center justify-center">Map placeholder</div>
             </div>
           </div>
+-
