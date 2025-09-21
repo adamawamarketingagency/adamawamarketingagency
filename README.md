@@ -160,7 +160,7 @@ export function OnePageAdamawa() {
         <section id="testimonials" className="py-8">
           <h3 className="text-2xl font-bold">What clients say</h3>
           <div className="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
-            <blockquote className="p-4 border-l-4 border-emerald-400">"Adamawa Real Estate Marketer made buying my house stress-free."<br /><cite className="text-sm text-slate-500">— Musa A.</cite></blockquote>
+            <blockquote className="p-4 border-l-4 border-emerald-400">"Adamawa Marketing agency made buying my house stress-free."<br /><cite className="text-sm text-slate-500">— Musa A.</cite></blockquote>
             <blockquote className="p-4 border-l-4 border-emerald-400">"Great prices and honest deals."<br /><cite className="text-sm text-slate-500">— Aisha T.</cite></blockquote>
             <blockquote className="p-4 border-l-4 border-emerald-400">"I reserved my plot in one week."<br /><cite className="text-sm text-slate-500">— John O.</cite></blockquote>
           </div>
@@ -189,7 +189,7 @@ export function OnePageAdamawa() {
 
       <footer className="bg-white border-t">
         <div className="max-w-6xl mx-auto p-6 text-sm text-slate-500 flex justify-between">
-          <div>© Adamawa Real Estate Marketer — Jimeta, Adamawa</div>
+          <div>© Adamawa marketing agency  — Jimeta, Adamawa</div>
           <div>Privacy • Terms</div>
         </div>
       </footer>
@@ -205,7 +205,7 @@ export function MultiSectionAdamawa() {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-md bg-gradient-to-br from-teal-400 to-blue-600 flex items-center justify-center text-white font-bold">A</div>
             <div>
-              <h1 className="text-lg font-semibold">Adamawa Real Estate Marketer</h1>
+              <h1 className="text-lg font-semibold">Adamawa marketing agency </h1>
             </div>
           </div>
           <div className="flex gap-4 items-center">
@@ -263,7 +263,7 @@ export function MultiSectionAdamawa() {
             </div>
             <div>
               <h4 className="font-semibold">Office</h4>
-              <p className="text-sm">Adamawa Real Estate Marketer — Jimeta, Adamawa</p>
+              <p className="text-sm">Adamawa marketing agency — Jimeta, Adamawa</p>
               <p className="text-sm mt-2">Phone: <a href="tel:+2349048987800" className="underline">+234 90 4898 7800</a></p>
               <div className="mt-4 h-40 bg-slate-100 rounded-md flex items-center justify-center">Map placeholder</div>
             </div>
